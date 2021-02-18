@@ -1,5 +1,5 @@
 # leetcode-algorithm
-Solved leetcode problems in JavaScript
+**Solved leetcode problems in JavaScript
 
 Easy
 
