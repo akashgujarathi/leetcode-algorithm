@@ -3,7 +3,7 @@ Solved leetcode problems in JavaScript
 
 Easy
 
-1710. Maximum Units on a Truck(https://leetcode.com/problems/maximum-units-on-a-truck/). #Amazon
+   1710. Maximum Units on a Truck(https://leetcode.com/problems/maximum-units-on-a-truck/). #Amazon
 
 Medium
 
