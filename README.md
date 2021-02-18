@@ -3,10 +3,12 @@
 
 Easy
 
-- Maximum Units on a Truck(https://leetcode.com/problems/maximum-units-on-a-truck/). #Amazon
+- Maximum Units on a Truck(https://leetcode.com/problems/maximum-units-on-a-truck/) #Amazon
+
+- Baseball Game(https://leetcode.com/problems/baseball-game/) #Amazon
 
 Medium
 
 Hard
 
-- Sliding Window Maximum(https://leetcode.com/problems/sliding-window-maximum/).
+- Sliding Window Maximum(https://leetcode.com/problems/sliding-window-maximum/)
