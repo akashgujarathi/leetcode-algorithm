@@ -9,6 +9,8 @@ Easy
 
 - Two Sum(https://leetcode.com/problems/two-sum/) #Amazon #Google #Apple
 
+- Two Sum II - Input array is sorted(https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) #Oracle #Amazon
+
 Medium
 
 Hard
